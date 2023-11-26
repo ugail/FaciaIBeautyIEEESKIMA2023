@@ -1,18 +1,22 @@
 # Facial Beauty Analysis using Distribution Prediction and CNN Ensembles
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 Perform Facial Beauty Prediction (FBP) using CNN ensembles originally trained for face verification (VGGFace2). Earth Mover Distance, Categorical Cross Entropy and Mean Squared Error are used to train models to predict the entire facial beauty distribution.
 
 ## Table of Contents
 
+- [Quickstart] (#quickstart)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Training](#models)
 - [Results](#results)
 - [Citation](#citation)
+
+## Quickstart
+
+Run our facial beauty prediction models on your own images in Google Colab/demo environment.
+[![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gz3fI285fzeG6fUlDw8bv9PgSyhpGnA1?usp=sharing)
 
 ## Installation
 
