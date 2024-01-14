@@ -6,7 +6,7 @@ Perform Facial Beauty Prediction (FBP) using CNN ensembles originally trained fo
 
 ## Table of Contents
 
-- [Quickstart] (#quickstart)
+- [Quickstart](#quickstart)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Training](#models)
@@ -15,7 +15,7 @@ Perform Facial Beauty Prediction (FBP) using CNN ensembles originally trained fo
 
 ## Quickstart
 
-Run our facial beauty prediction models on your own images in Google Colab/demo environment.
+Run our facial beauty prediction models on your own images in Google Colab/demo environment.<br>
 [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gz3fI285fzeG6fUlDw8bv9PgSyhpGnA1?usp=sharing)
 
 ## Installation
@@ -51,6 +51,6 @@ If you use this code for your research, please cite our paper.
 }
 ```
 
-Note: The model weights we provide can only be used for non-commercial research purposes as the dataset they're based on (MEBeauty) comes with these rules.
+Note: The model weights we provide can only be used for non-commercial research purposes as the dataset they're trained on (MEBeauty) comes with these rules.
 
 For any questions about these models or paper, please contact the authors by sending email to ahmedamanibrahim@gmail.com
